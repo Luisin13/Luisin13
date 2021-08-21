@@ -317,7 +317,7 @@ section.dark .section-title::after{
   margin: 20px 0;
   padding: 40px 20px;
   color: #fff;
-  cursor: pointer;
+  cursor: default;
   transition: .3s linear;
 }
 
