@@ -78,16 +78,16 @@ html{
 }
 
 .sticky{
-  background-color: #fff;
+  background-color: #2b303a;
   padding: 18px 0;
 }
 
 .sticky .navbar-menu a{
-  color: #050404;
+  color: #fff;
 }
 
 .sticky .menu-toggler span{
-  background-color: #050404;
+  background-color: #fff;
 }
 
 #home{
