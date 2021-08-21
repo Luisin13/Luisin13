@@ -12,14 +12,14 @@
 </div>
 <a href="https://github.com/Luisin13">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisin13&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisin13&layout=compact&theme=onedark" />
 </a>
 
 <a href="https://github.com/Luisin13">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luisin13&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luisin13&repo=github-readme-stats&theme=onedark" />
 </a>    
 <a href="https://github.com/Luisin13">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luisin13&repo=Luisin13.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luisin13&repo=Luisin13.github.io&theme=onedark" />
 </a>
