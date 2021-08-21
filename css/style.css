@@ -66,7 +66,7 @@ html{
 .menu-toggler span{
   display: block;
   height: 3px;
-  background-color: #050505;
+  background-color: #fff;
   margin: 6px 0;
   position: relative;
   transition: .3s linear;
@@ -94,11 +94,11 @@ html{
 }
 
 .sticky .navbar-menu a{
-  color: #111;
+  color: #fff;
 }
 
 .sticky .menu-toggler span{
-  background-color: #111;
+  background-color: #050404;
 }
 
 #home{
@@ -458,7 +458,7 @@ footer{
   }
 
   .sticky .navbar-menu{
-    background-color: #000000;
+    background-color: #353b48;
   }
   
   .navbar-menu.active{
