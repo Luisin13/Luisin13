@@ -98,11 +98,6 @@
     color: #48dbfb !important;
   }
   
-  .sticky{
-    background-color: #2b303a;
-    padding: 18px 0;
-  }
-  
   .sticky .lang a{
     color: #fff;
   }  
@@ -469,7 +464,7 @@
 
     .lang a{
       display: block;
-      font-size: 30px;
+      font-size: 20px;
       margin-left: 30px;
     }
   
