@@ -435,7 +435,7 @@ footer{
     background-color: #353b48;
     top: 0;
     right: -100%;
-    max-width: 800px;
+    max-width: 1080px;
     padding: 80px 50px;
     transition: .3s linear;
   }
