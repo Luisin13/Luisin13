@@ -86,6 +86,27 @@ html{
   color: #fff;
 }
 
+.lang a{
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  margin-left: 30px;
+  transition: .2s linear;
+}
+
+.lang a:hover{
+  color: #48dbfb !important;
+}
+
+.sticky{
+  background-color: #2b303a;
+  padding: 18px 0;
+}
+
+.sticky .lang a{
+  color: #fff;
+}
+
 .sticky .menu-toggler span{
   background-color: #fff;
 }
@@ -444,6 +465,12 @@ footer{
     display: block;
     font-size: 30px;
     margin: 30px 0;
+  }
+
+  .lang a{
+    display: block;
+    font-size: 30px;
+    margin-left: 30px;
   }
 
   .sticky .navbar-menu{
