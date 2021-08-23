@@ -20,7 +20,7 @@
   }
   
   ::-webkit-scrollbar-thumb{
-    background-color: #353b48;
+    background-color: #262a33;
   }
   
   .navbar{
@@ -133,20 +133,8 @@
   }
   
   #home .content h1::after{
-    content: "Luis Otávio";
+    content: "I'm Luis Otávio";
     animation: textanim 10s linear infinite;
-  }
-  
-  @keyframes textanim{
-    25%{
-      content: "I'm Luis Otávio";
-    }
-    50%{
-      content: "Basic programmer";
-    }
-    75%{
-      content: "What do I put here?";
-    }
   }
   
   .sm a{

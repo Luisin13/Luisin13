@@ -20,7 +20,7 @@ html{
 }
 
 ::-webkit-scrollbar-thumb{
-  background-color: #353b48;
+  background-color: #262a33;
 }
 
 .navbar{
@@ -141,20 +141,8 @@ html{
 }
 
 #home .content h1::after{
-  content: "Luis Otávio";
+  content: "Sou o Luis Otávio";
   animation: textanim 10s linear infinite;
-}
-
-@keyframes textanim{
-  25%{
-    content: "Sou o Luis Otávio";
-  }
-  50%{
-    content: "Sou um programador básico";
-  }
-  75%{
-    content: "O que eu coloco aqui?";
-  }
 }
 
 .sm a{
