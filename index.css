@@ -33,16 +33,26 @@ body {
     overflow-x: hidden;
 }
 
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    width: 50%;
+}
+
 h1{
-    color: #fff;
-    text-align: center;
-    margin-top: 15%;
+  z-index: 100;
+  color: #fff;
+  text-align: center;
+  margin-top: -20%;
 }
 
 h2{
-    color: #fff;
-    text-align: center;
-    margin-top: 0.3cm;
+  z-index: 100;
+  color: #fff;
+  text-align: center;
+  margin-top: 0.3cm;
 }
 
 button{
