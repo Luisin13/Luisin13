@@ -3,7 +3,7 @@
 <div style="display: inline_block">
   <a href="https://github.com/Luisin13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisin13&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisin13&layout=compact&langs_count=7&theme=onedark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisin13&layout=compact&langs_count=7&theme=onedark&include_all_commits=true&count_private=true">
 </div>
 <p><a>
    🤖●Curto fazer bot para o Discord<br>
